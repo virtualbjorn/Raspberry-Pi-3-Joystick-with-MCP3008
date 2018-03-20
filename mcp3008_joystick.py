@@ -6,8 +6,9 @@
 # Analogue joystick version!
 #
 # Author : Matt Hawkins
-# Date   : 25/122017
-#
+# Date   : 25/12/2017
+# Revised: Bryan Jim Paano
+# Date Revised: 17/03/2018
 # http://www.raspberrypi-spy.co.uk/
 #
 #--------------------------------------

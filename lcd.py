@@ -8,6 +8,8 @@
 # 
 # Date   : 03/08/2012
 #
+# Revised: Bryan Jim Paano
+# Date Revised: 17/03/2018
 
 # The wiring for the LCD is as follows:
 # 1 : GND
