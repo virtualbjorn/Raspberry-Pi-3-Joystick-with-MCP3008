@@ -18,7 +18,7 @@ o	If disabled, refer to https://goo.gl/eCY4xo to enable SPI Interface
 o	https://github.com/impire123/Raspberry-Pi-3-Joystick-with-MCP3008.git
 *	Run code.
 ## WIRING DIAGRAM:
-[![Screenshot](wiring-diagram.png)]
+[![Screenshot](Wiring Diagram.png)]
 ### Wiring Information
 Joystick    |MCP3008/Pi
 ------------|------
