@@ -1,8 +1,11 @@
 # Interfacing a Joystick Module on the Raspberry Pi 3 using an MCP3008
+
 ### INTRODUCTION:
-This instruction manual will guide you on how to interface a Joystick Module on the Raspberry Pi 3 using an MCP3008 ADC. As well as guiding you on setting up an LCD Display. <br>
+This instruction manual will guide you on how to interface a Joystick Module on the Raspberry Pi 3 using an MCP3008 ADC. As well as guiding you on setting up an LCD Display.
+
 ### OBJECTIVES:
 *	To interface a **Joystick Module** into the Raspberry Pi 3
+
 ### MATERIALS NEEDED:
 *	10kΩ Trim Pot – 2pcs
 *	1kΩ Resistor 1/4W – 1pc
@@ -10,6 +13,7 @@ This instruction manual will guide you on how to interface a Joystick Module on 
 *	MCP3008
 *	Joystick Module
 *	Raspberry Pi 3
+
 ### PROCEDURES:
 *	 Check SPI Interface if enabled. <br>
 o	If disabled, refer to https://goo.gl/eCY4xo to enable SPI Interface
@@ -17,8 +21,10 @@ o	If disabled, refer to https://goo.gl/eCY4xo to enable SPI Interface
 *	Download Python Source Code: <br>
 o	https://github.com/impire123/Raspberry-Pi-3-Joystick-with-MCP3008.git
 *	Run code.
+
 ## WIRING DIAGRAM:
-[![Screenshot](wiring-diagram.png)]
+![Screenshot](wiring-diagram.png)
+
 ### Wiring Information
 Joystick    |MCP3008/Pi
 ------------|------
