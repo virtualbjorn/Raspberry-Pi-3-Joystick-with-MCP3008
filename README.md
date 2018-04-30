@@ -15,12 +15,12 @@ This instruction manual will guide you on how to interface a Joystick Module on 
 *	Raspberry Pi 3
 
 ### PROCEDURES:
-*	 Check SPI Interface if enabled. <br>
+*	 **Check SPI Interface if enabled.** <br>
 o	If disabled, refer to https://goo.gl/eCY4xo to enable SPI Interface
-*	Follow wiring information.
-*	Download Python Source Code: <br>
+*	**Follow wiring information.**
+*	**Download Python Source Code:** <br>
 o	https://github.com/impire123/Raspberry-Pi-3-Joystick-with-MCP3008.git
-*	Run code.
+*	**Run code.**
 
 ## WIRING DIAGRAM:
 ![Screenshot](wiring-diagram.png)
